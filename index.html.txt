@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>H-Dev Studio</title>
+
+<style>
+body{
+    font-family: Arial, sans-serif;
+    text-align:center;
+    padding:50px;
+    background:#111;
+    color:white;
+}
+
+.box{
+    max-width:700px;
+    margin:auto;
+    background:#222;
+    padding:30px;
+    border-radius:15px;
+}
+
+h1{
+    color:#4CAF50;
+}
+</style>
+
+</head>
+
+<body>
+
+<div class="box">
+
+<h1>H-Dev Studio</h1>
+
+<h2>Unity Asset Developer</h2>
+
+<p>
+We create professional Unity assets, editor tools, and game development solutions
+to help developers improve their workflow and build better games.
+</p>
+
+<h3>Our Products</h3>
+
+<p>
+• Unity Editor Tools<br>
+• Game Development Assets<br>
+• Optimization Utilities
+</p>
+
+<h3>Contact</h3>
+
+<p>
+Email: your-email@example.com
+</p>
+
+<p>
+© 2026 H-Dev Studio
+</p>
+
+</div>
+
+</body>
+</html>
